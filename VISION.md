@@ -84,7 +84,120 @@ The model should examine both potential benefits and unintended consequences.
 
 ---
 
-## 4. The Council of 60
+## 4.1. The Council of 60 — A Complete Human Spectrum
+
+The concept of the **Council of 60** originates from the hypothesis that human character and behavioural tendencies can be represented through a recurring **60-year cycle**.
+
+The number 60 is therefore not arbitrary.
+
+The underlying idea is that, across a complete cycle, different expressions of human character, temperament, experience, values and ways of approaching problems become represented. A council constructed around the full cycle would therefore attempt to avoid concentrating decision-making around only one type of human perspective.
+
+The Council of 60 is consequently conceived not as a political ruling body, but as a **symbolic and analytical representation of the diversity of human character**.
+
+### The principle
+
+> **If humanity contains many different ways of seeing the world, a system intended to serve humanity should not be designed around only one of them.**
+
+Each position in the Council represents one part of the proposed 60-year cycle.
+
+The purpose is not to claim that every person can be reduced to a single category. Human beings are considerably more complex than any classification system.
+
+Instead, the cycle provides a framework for asking:
+
+* Which perspectives are represented?
+* Which perspectives are missing?
+* Which values are in conflict?
+* Which types of reasoning dominate the decision?
+* What would a different character perspective see that the current model overlooks?
+
+### The 60-year hypothesis
+
+The 60-year cycle should initially be treated as a **research hypothesis and philosophical framework**, not as an established scientific law.
+
+The project should investigate whether measurable patterns in human behaviour, demographics, historical events, cultural development or other relevant data provide evidence supporting or challenging the hypothesis.
+
+If evidence contradicts the hypothesis, the model should be changed.
+
+The purpose of research is not to prove the original idea correct.
+
+### Diversity rather than hierarchy
+
+No position within the 60 should be considered inherently superior to another.
+
+A character associated with caution is not automatically better than one associated with exploration.
+
+A character associated with stability is not automatically better than one associated with disruption.
+
+A character associated with individual freedom is not automatically better than one associated with collective responsibility.
+
+The value of the Council comes from **the interaction between different perspectives**.
+
+### From archetypes to analysis
+
+If the framework develops into a computational model, each of the 60 positions could eventually be represented through a transparent set of characteristics.
+
+For example:
+
+* risk tolerance;
+* curiosity;
+* conservatism;
+* empathy;
+* competitiveness;
+* cooperation;
+* independence;
+* patience;
+* creativity;
+* analytical reasoning;
+* social orientation;
+* preference for stability;
+* willingness to experiment.
+
+These characteristics should not be treated as fixed descriptions of individuals.
+
+They are modelling dimensions intended to explore how different perspectives might respond to the same problem.
+
+### The Council as a safeguard
+
+The Council of 60 can therefore serve as a safeguard against **single-perspective optimization**.
+
+Before accepting a proposed solution, the model could ask:
+
+> Would this solution still appear desirable from substantially different human perspectives?
+
+If the answer is no, the disagreement should become visible.
+
+The objective is not to eliminate disagreement.
+
+The objective is to **make disagreement part of the model**.
+
+### Human beings remain more complex than the model
+
+No 60-part framework can fully represent humanity.
+
+People change throughout their lives.
+People contain contradictory characteristics.
+Culture influences behaviour.
+Environment influences behaviour.
+Experience changes behaviour.
+
+Therefore, the Council of 60 should never be used to assign a person a permanent identity or determine what an individual is allowed to do.
+
+It is a framework for exploring perspectives — **not a classification system for controlling people**.
+
+### The deeper principle
+
+The Council of 60 is ultimately based on a simple idea:
+
+> **A system designed for humanity should attempt to see humanity from more than one point of view.**
+
+The 60-year cycle provides the structure through which METAL MONKEY intends to explore that idea.
+
+Whether the cycle represents a genuine recurring pattern, a useful archetypal framework, or simply a philosophical metaphor remains an open question.
+
+The project should allow the evidence to determine the answer.
+
+
+## 4.2. The Council of 60
 
 The original METAL MONKEY concept included a "Council of 60."
 
