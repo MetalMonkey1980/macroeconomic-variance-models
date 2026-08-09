@@ -1,5 +1,5 @@
 # ==============================================================================
-# PROJEKT: STATISTICKÝ ANALYZÁTOR DAT A MATEMATICKÝCH MODELŮ (VERZE 2.4.2)
+# PROJEKT: STATISTICKÝ ANALYZÁTOR DAT A MATEMATICKÝCH MODELŮ (VERZE 2.4.3)
 # AUTOR: Nezávislý výzkumník (Teorie her a stochastické procesy)
 # POPIS: Tento skript slouží k filtrování šumů v makroekonomických databázích.
 # ==============================================================================
