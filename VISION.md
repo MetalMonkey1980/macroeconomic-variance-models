@@ -1,10 +1,248 @@
-# METAL MONKEY
+# METAL MONKEY — VISION
 
-## Peace, Resources and the Planet
+> **METAL MONKEY is a tool, not an authority.**
+>
+> It is designed to help humanity explore patterns, perspectives, relationships and possible futures — not to tell humanity what to believe.
 
-METAL MONKEY considers peace not only a humanitarian objective, but a planetary resource question.
+## 1. What Is METAL MONKEY?
 
-Humanity possesses finite resources:
+METAL MONKEY is an experimental framework for exploring the relationship between:
+
+* human character;
+* cycles and time;
+* environment;
+* astronomy;
+* economics;
+* technology;
+* conflict and cooperation;
+* and the long-term health of the planet.
+
+It brings together ideas from different traditions and disciplines and subjects them to observation, modelling, criticism and experimentation.
+
+METAL MONKEY does not require every hypothesis to be true.
+
+A strange observation may be the beginning of an investigation.
+
+A traditional system may contain useful patterns without every interpretation being scientifically established.
+
+A model may reveal something useful and later prove to be wrong.
+
+The project therefore values **curiosity together with skepticism**.
+
+---
+
+## 2. The Metal Monkey Character
+
+The name METAL MONKEY represents the personality of the project itself.
+
+### Monkey
+
+The Monkey represents:
+
+* curiosity;
+* intelligence;
+* experimentation;
+* adaptability;
+* unconventional thinking;
+* discovering connections;
+* questioning established assumptions;
+* creativity and playfulness.
+
+The Monkey asks:
+
+> **"What if there is a connection here?"**
+
+### Metal
+
+Metal represents:
+
+* structure;
+* precision;
+* discipline;
+* critical thinking;
+* persistence;
+* boundaries;
+* the willingness to remove what does not withstand examination.
+
+Metal asks:
+
+> **"Can we demonstrate it?"**
+
+Together:
+
+> **The Metal Monkey sees patterns, but does not worship them.**
+
+It is curious enough to explore unusual ideas and disciplined enough to question its own conclusions.
+
+Its greatest danger is not being wrong.
+
+Its greatest danger is becoming so clever that it stops questioning itself.
+
+---
+
+## 3. Tool, Not Authority
+
+METAL MONKEY does not decide what is true.
+
+It does not determine human destiny.
+
+It does not replace scientific research.
+
+It does not replace democratic institutions.
+
+It does not replace diplomacy.
+
+It does not replace human judgment.
+
+It does not have the authority to decide what humanity should do.
+
+Instead, it provides:
+
+* frameworks;
+* models;
+* simulations;
+* comparisons;
+* questions;
+* alternative perspectives;
+* and tools for investigating possible relationships.
+
+The user remains responsible for interpretation and decisions.
+
+> **Question it. Test it. Improve it. Disagree with it.**
+
+If METAL MONKEY cannot withstand those things, it has failed its purpose.
+
+---
+
+## 4. The Council of 60
+
+One of the central concepts of METAL MONKEY is the **Council of 60**.
+
+The traditional Chinese calendrical system contains a 60-year cycle created by the combination of:
+
+**12 earthly branches / animal associations × 5 elemental phases**
+
+This produces 60 distinct combinations.
+
+METAL MONKEY explores whether these combinations can be used as a structured set of archetypal perspectives.
+
+The Council is not intended to declare that every person born under a particular combination must possess a fixed personality.
+
+Instead, it asks a question:
+
+> **Could recurring symbolic character types provide a useful framework for representing different human perspectives?**
+
+Each of the 60 positions represents a perspective that deserves to be considered.
+
+No position is inherently superior.
+
+No position is inherently inferior.
+
+The purpose of the Council is diversity of perspective.
+
+A decision that satisfies only one character may fail the other 59.
+
+A decision that survives examination from many different perspectives may be more resilient.
+
+---
+
+## 5. Character Is a Hypothesis, Not a Sentence
+
+METAL MONKEY recognizes the long human tradition of associating birth periods with character.
+
+It also recognizes that modern scientific evidence does not establish that Chinese zodiac signs determine personality.
+
+Therefore the project makes an important distinction:
+
+> **A symbolic association is not the same thing as a demonstrated causal relationship.**
+
+METAL MONKEY is interested in investigating whether measurable patterns exist.
+
+If evidence supports a relationship, it should be documented.
+
+If evidence contradicts a relationship, that contradiction should remain visible.
+
+No person should be judged, restricted, discriminated against or denied an opportunity because of their zodiac character.
+
+---
+
+## 6. Birth, Environment and Human Development
+
+METAL MONKEY explores the possibility that the conditions surrounding birth and early development may influence later human development.
+
+These conditions can include:
+
+* season;
+* temperature;
+* light;
+* humidity;
+* nutrition;
+* geography;
+* social environment;
+* cultural environment;
+* biological factors;
+* and potentially astronomical conditions.
+
+The project is particularly interested in whether some factors traditionally described as "energy" can be translated into measurable physical or environmental variables.
+
+This distinction is essential.
+
+METAL MONKEY may investigate a traditional interpretation without assuming that the traditional explanation is scientifically correct.
+
+---
+
+## 7. Cycles and Astronomy
+
+Human civilizations have always observed cycles in the sky.
+
+The Sun, Moon and planets move through recurring patterns, some short and some extremely long.
+
+METAL MONKEY is interested in whether astronomical cycles can be meaningfully compared with:
+
+* environmental cycles;
+* biological cycles;
+* historical events;
+* social behaviour;
+* economic fluctuations;
+* and human decision-making.
+
+The project does not assume that planetary configurations cause wars, personalities or historical events.
+
+Instead:
+
+> **Astronomical cycles are observations. Their possible relationship to human phenomena is a hypothesis to be tested.**
+
+The distinction between correlation and causation must always remain explicit.
+
+---
+
+## 8. Material and Process
+
+METAL MONKEY is also interested in the relationship between two different ways of understanding nature.
+
+The periodic table describes **material structure**.
+
+The traditional Five Phases — often translated as Wood, Fire, Earth, Metal and Water — describe **process, transformation and relationships** within a traditional Chinese framework.
+
+METAL MONKEY explores whether these can be placed into dialogue without pretending that they describe the same scientific system.
+
+The periodic table asks:
+
+> **What is matter made of?**
+
+The Five Phases ask:
+
+> **How can transformation and relationships be represented?**
+
+METAL MONKEY asks:
+
+> **Can different models illuminate different aspects of the same complex system?**
+
+---
+
+## 9. Humanity and Planetary Resources
+
+Humanity has finite resources:
 
 * energy;
 * minerals;
@@ -15,515 +253,198 @@ Humanity possesses finite resources:
 * industrial capacity;
 * scientific knowledge;
 * human labour;
-* time.
+* and time.
 
-War consumes these resources while destroying additional resources through death, displacement, infrastructure destruction, pollution and environmental damage.
+These resources can be transformed into construction or destruction.
 
-Resources that could be used to build, restore and protect life are instead converted into the capacity to destroy.
+A tonne of steel can become a bridge.
+
+It can also become a weapon.
+
+Energy can power a hospital.
+
+It can also power a weapons factory.
+
+Scientific knowledge can improve agriculture and medicine.
+
+It can also improve military technology.
+
+The material itself does not determine the outcome.
+
+> **Human decisions determine what resources become.**
+
+---
+
+## 10. Peace and the Peace Dividend
+
+METAL MONKEY considers peace not only a humanitarian objective, but also a planetary resource question.
+
+War consumes resources while destroying additional resources through:
+
+* death;
+* displacement;
+* infrastructure destruction;
+* environmental damage;
+* lost economic production;
+* disrupted education;
+* disrupted scientific development;
+* and long-term social consequences.
 
 This creates a fundamental question:
 
-> **What could humanity build if fewer resources were consumed by conflict?**
+> **What could humanity build if fewer resources were consumed by prolonged conflict?**
 
-METAL MONKEY therefore seeks to model the potential **Peace Dividend**.
-
-The Peace Dividend represents the resources that could potentially become available through the reduction of armed conflict and their subsequent redirection toward constructive purposes.
+METAL MONKEY calls the potential benefit of reducing destructive expenditure and redirecting available capacity toward constructive purposes the **Peace Dividend**.
 
 Possible destinations include:
 
 * ecological restoration;
-* renewable energy;
+* clean energy;
 * clean water;
 * food security;
 * housing;
 * education;
-* scientific research;
 * healthcare;
+* scientific research;
 * resilient infrastructure;
 * biodiversity protection;
-* climate adaptation.
+* and climate adaptation.
 
-The Peace Dividend should not be understood as an assumption that all military expenditure can simply disappear.
+The Peace Dividend is not the assumption that all military expenditure can simply disappear.
 
-Countries have legitimate security concerns, and some defensive expenditure may prevent greater conflict.
+Countries have legitimate security concerns.
 
-The purpose is instead to measure the **opportunity cost of prolonged conflict**.
+The objective is instead to investigate the **opportunity cost of prolonged conflict** and the possibilities created by cooperation.
 
-### From destruction to regeneration
+---
 
-The central question is not:
+## 11. Conflict
 
-> "How much does war cost?"
+METAL MONKEY does not assume that planetary or astronomical cycles cause wars.
+
+Wars emerge from human decisions interacting with:
+
+* political structures;
+* historical grievances;
+* economic interests;
+* resources;
+* ideology;
+* security concerns;
+* leadership;
+* institutions;
+* and chance.
+
+METAL MONKEY may investigate whether cycles correlate with changes in human behaviour, but correlation must never automatically be presented as causation.
+
+The ultimate responsibility remains human.
+
+> **The planets do not decide whether humanity makes peace. People do.**
+
+---
+
+## 12. Reconciliation
+
+METAL MONKEY is interested in finding conditions under which conflicting perspectives can coexist.
+
+The objective is not peace at any price.
+
+A durable peace must consider:
+
+* security;
+* sovereignty;
+* dignity;
+* justice;
+* economic stability;
+* reconstruction;
+* environmental recovery;
+* displaced populations;
+* and mechanisms for preventing renewed violence.
+
+METAL MONKEY therefore explores peace as a **systems problem**.
+
+The question is not merely:
+
+> "How do we stop fighting?"
 
 It is:
 
-> **"What could those resources have become?"**
-
-A tonne of steel can become a weapon.
-
-It can also become a bridge.
-
-Energy can power a missile factory.
-
-It can also power a hospital.
-
-Scientific knowledge can improve weapons.
-
-It can also improve agriculture, medicine and environmental restoration.
-
-Human labour can be consumed by destruction.
-
-It can also repair and regenerate.
-
-The material itself does not determine the outcome.
-
-**Human decisions determine how resources are transformed.**
-
-### A planetary accounting system
-
-METAL MONKEY therefore seeks to develop a broader accounting framework in which military, economic, environmental and humanitarian consequences can be considered together.
-
-A conflict should be evaluated not only by its immediate financial cost, but by:
-
-* lives lost;
-* years of life disrupted;
-* infrastructure destroyed;
-* resources consumed;
-* ecological damage;
-* displaced populations;
-* lost economic production;
-* lost scientific and educational opportunity;
-* reconstruction requirements;
-* long-term psychological and social consequences.
-
-The alternative should also be modelled.
-
-If conflict is reduced, what becomes possible?
-
-This is the **Peace Dividend**.
-
-### The ultimate objective
-
-The objective is not to create a world without legitimate differences.
-
-Humanity will continue to contain different interests, cultures, values and characters.
-
-The objective is to develop systems capable of resolving differences without continuously converting human and planetary resources into destruction.
-
-> **The greatest resource humanity possesses is not money, minerals or energy.**
->
-> **It is the ability to choose what those resources become.**
-
-
-### Vision
-
-**METAL MONKEY** is an open research concept exploring whether quantitative modelling can help humanity better understand the relationships between economic instability, ecological pressure, technological change, energy security, and geopolitical conflict.
-
-The project begins with a simple question:
-
-> **Can we identify pathways that increase human and ecological resilience while reducing the economic conditions and incentives that contribute to large-scale conflict?**
-
-The answer is not assumed.
-
-The purpose of this project is to develop models, test hypotheses, examine scenarios, and make uncertainty visible.
-
-METAL MONKEY is **not a political authority, government, intelligence system, or autonomous decision-maker**. It does not claim the right to determine what governments, institutions, or individuals should do.
-
-Its role is analytical:
-
-**observe → model → simulate → compare → explain → allow humans to decide.**
+> **"What system makes cooperation more sustainable than destruction?"**
 
 ---
 
-## 1. A Planetary Systems Perspective
+## 13. 2027 and the Fire Goat
 
-Economic systems do not operate independently from the physical world.
+Traditional Chinese calendrical systems identify 2027 as **Ding-Wei**, traditionally associated with Fire and the Goat/Sheep.
 
-Energy prices influence production.
-Production influences employment and investment.
-Investment influences technology.
-Technology influences resource consumption.
-Resource consumption influences ecological conditions.
-Ecological conditions influence societies and economies.
+METAL MONKEY does not claim that 2027 is destined to be peaceful.
 
-At the same time, geopolitical tensions can alter trade, energy availability, government spending, investment and technological development.
+Instead, it sees the year as a potentially meaningful symbolic opportunity to encourage:
 
-The project therefore explores these relationships as an interconnected system rather than treating economic indicators in isolation.
+* dialogue;
+* reconciliation;
+* international cooperation;
+* restoration;
+* and constructive resource allocation.
 
----
+A peace summit or international reconciliation initiative during such a period could use the symbolism as an invitation to act.
 
-## 2. The Global Stability Hypothesis
+The symbolism does not determine the outcome.
 
-One working hypothesis is that long-term stability may be improved when economic development, ecological renewal, energy security and technological progress reinforce one another.
-
-The project therefore investigates scenarios involving, for example:
-
-* renewable and low-carbon energy investment;
-* energy-price stability;
-* economic diversification;
-* technological innovation;
-* infrastructure resilience;
-* employment and social stability;
-* reduction of systemic economic risk;
-* responsible management of public resources;
-* international economic cooperation;
-* reduction of incentives for destructive conflict.
-
-These are **research variables, not political prescriptions**.
-
-Every proposed intervention should be tested against measurable outcomes rather than accepted because it sounds desirable.
+**Human beings do.**
 
 ---
 
-## 3. The Global Stabilization Fund — Concept
+## 14. Independence
 
-One possible research scenario is a hypothetical **Global Stabilization and Renewal Fund**.
+METAL MONKEY seeks independence from:
 
-The concept is to investigate whether coordinated investment in areas such as:
+* governments;
+* political parties;
+* military organizations;
+* corporations;
+* intelligence organizations;
+* donors;
+* ideological movements;
+* and individual personalities.
 
-* energy resilience;
-* environmental restoration;
-* critical infrastructure;
-* food and water security;
-* scientific research;
-* technological development;
-* economic recovery;
+The project should not become an instrument for any particular power.
 
-could reduce systemic risks while creating positive economic incentives.
+No actor should have unilateral control over its conclusions.
 
-This is a modelling concept, not an existing institution or proposal directed at any particular government.
+The project should rely on:
 
-The model should examine both potential benefits and unintended consequences.
+* transparency;
+* reproducibility;
+* documentation;
+* open methodology;
+* independent criticism;
+* and public accountability.
 
 ---
 
-## 4. The Council of 60 — The Complete Cycle
+## 15. The Ultimate Purpose
 
-The concept of the **Council of 60** is inspired by the traditional Chinese calendrical system known as the **sexagenary cycle**, a repeating cycle of 60 combinations.
+METAL MONKEY does not seek to predict the future with certainty.
 
-The framework combines the twelve traditional zodiac animals with the five classical elements:
-
-**12 animals × 5 elements = 60 combinations**
-
-More precisely, the traditional system combines the **Twelve Earthly Branches** with the **Ten Heavenly Stems**, producing a complete 60-combination cycle in which the five elements appear through yin and yang aspects.
-
-METAL MONKEY uses this traditional structure as an **archetypal framework for exploring human diversity**.
-
-### Why 60?
-
-The number 60 represents a complete cycle.
-
-Within the METAL MONKEY concept, each of the 60 combinations represents a different archetypal configuration of human characteristics.
-
-The Council therefore attempts to represent the idea that humanity is not composed of one kind of person, one way of thinking, or one set of values.
-
-Instead:
-
-> **A system intended to serve humanity should attempt to see humanity through many different perspectives.**
-
-### Tradition and interpretation
-
-METAL MONKEY does not claim that the Chinese zodiac scientifically proves the existence of 60 distinct personality types.
-
-The traditional system is used here as a **cultural and philosophical starting point**.
-
-The project is interested in whether these archetypes can provide a useful language for discussing differences in:
-
-* temperament;
-* risk tolerance;
-* cooperation;
-* independence;
-* creativity;
-* stability;
-* ambition;
-* empathy;
-* analytical thinking;
-* adaptability;
-* patience;
-* leadership;
-* conflict response.
-
-These characteristics should be treated as **archetypal tendencies**, not fixed properties of individuals.
-
-### No person is only one archetype
-
-A person's birth-year association does not define their entire personality.
-
-Human behaviour is influenced by:
-
-* upbringing;
-* culture;
-* education;
-* environment;
-* relationships;
-* personal experience;
-* historical circumstances;
-* individual choices.
-
-The Council of 60 therefore should never be used to decide what a person is, what they are capable of, or what they should be permitted to do.
-
-It is a framework for exploring perspectives, not a mechanism for assigning people to permanent categories.
-
-### The Council
-
-In its conceptual form, the Council contains one representative of each of the 60 archetypal combinations.
-
-The representatives do not necessarily need to be actual people.
-
-They may initially exist as **analytical perspectives** within a simulation.
-
-For a given problem, each archetype could ask different questions:
-
-> What risks are we overlooking?
-
-> What opportunities are we missing?
-
-> Who could be harmed?
-
-> What happens if we move too quickly?
-
-> What happens if we wait?
-
-> What happens if cooperation fails?
-
-> What happens if the unexpected occurs?
-
-The objective is to create a structured confrontation between different ways of thinking.
-
-### From archetype to model
-
-A future implementation could translate the 60 archetypes into explicit, testable parameters.
-
-For example, an archetype might have relative tendencies toward:
-
-| Dimension             | Example |
-| --------------------- | ------: |
-| Risk tolerance        |   0–100 |
-| Innovation            |   0–100 |
-| Stability preference  |   0–100 |
-| Cooperation           |   0–100 |
-| Independence          |   0–100 |
-| Long-term orientation |   0–100 |
-| Resource conservation |   0–100 |
-| Social sensitivity    |   0–100 |
-
-These numbers would not be presented as scientific measurements of people born under a particular zodiac sign.
-
-They would represent **the assumptions of the model** and should therefore remain transparent and adjustable.
-
-### Diversity as a safeguard
-
-The Council of 60 is intended to prevent a single worldview from dominating the analytical process.
-
-A proposed policy should ideally be examined from multiple archetypal perspectives before being considered robust.
-
-If most perspectives support a proposal but several strongly oppose it, that disagreement should not simply be averaged away.
-
-It should be investigated.
-
-### The deeper principle
-
-The Council of 60 is ultimately an experiment in **structured pluralism**.
+It seeks to improve humanity's ability to think about the future.
 
 It asks:
 
-> **What happens when a complex decision is examined through a complete cycle of different human archetypes rather than through a single perspective?**
-
-The Chinese 60-cycle provides the cultural architecture.
-
-METAL MONKEY provides the modern analytical interpretation.
-
-The distinction between the two should remain explicit.
-
-**Tradition provides the inspiration.
-Modelling provides the experiment.
-Evidence determines what survives.**
-
----
-
-## 5. Scenario Modelling
-
-METAL MONKEY should not attempt to predict a single future.
-
-Instead, it should construct multiple plausible scenarios.
-
-For example:
-
-### Scenario A — Energy Transition
-
-What happens if investment in renewable energy and storage accelerates?
-
-### Scenario B — Energy Shock
-
-What happens if energy prices experience a prolonged disruption?
-
-### Scenario C — Economic Fragmentation
-
-What happens if international trade becomes substantially less integrated?
-
-### Scenario D — Coordinated Investment
-
-What happens if multiple economies coordinate investment in infrastructure, energy and environmental restoration?
-
-### Scenario E — Conflict De-escalation
-
-What economic effects could result from a sustained reduction in military and geopolitical tensions?
-
-The model should report **ranges, probabilities where justified, assumptions and uncertainty**, rather than presenting speculative outcomes as facts.
-
----
-
-## 6. Public Data Principle
-
-METAL MONKEY should rely on **lawfully obtained, documented and reproducible data**.
-
-The project does not seek:
-
-* classified information;
-* stolen information;
-* private personal information;
-* restricted government systems;
-* covert intelligence;
-* unauthorized access to computer systems.
-
-Military, geopolitical or security-related variables may be studied using legitimate public information and established datasets where appropriate.
-
-The objective is understanding, not surveillance.
-
----
-
-## 7. Ethical Boundary
-
-METAL MONKEY must never become an authority simply because its models appear sophisticated.
-
-The system should:
-
-* remain transparent;
-* disclose assumptions;
-* identify uncertainty;
-* allow independent verification;
-* distinguish evidence from speculation;
-* represent competing perspectives;
-* avoid covert communication;
-* avoid manipulation;
-* respect human rights and civil liberties;
-* preserve human responsibility for decisions.
-
-A model can recommend a scenario for consideration.
-
-It cannot legitimately claim the authority to impose that scenario.
-
----
-
-## 8. No Autonomous Political Power
-
-METAL MONKEY does not represent:
-
-* a government;
-* a military organization;
-* an intelligence agency;
-* a political party;
-* a diplomatic authority;
-* a financial authority;
-* a religious organization.
-
-References to countries, governments, political leaders or international institutions are used only when necessary for **research scenarios and historical or contemporary analysis**.
-
-The project does not speak on behalf of those entities.
-
----
-
-## 9. Transparency Over Hidden Instructions
-
-The project's principles belong in publicly readable documentation.
-
-They should not be concealed inside executable code, encoded payloads, network requests, or other mechanisms intended to obscure their existence.
-
-The software should contain software.
-
-The research vision should contain the vision.
-
-The ethical framework should contain the ethical framework.
-
-This separation is intentional.
-
-**Nothing important about the project's purpose should require decoding to understand.**
-
----
-
-## 10. The Human Principle
-
-The ultimate purpose of the project is not to replace human judgment.
-
-It is to improve it.
-
-A useful model should be able to say:
-
-> "The evidence is insufficient."
-
-It should be able to say:
-
-> "These assumptions produce different outcomes."
-
-It should be able to say:
-
-> "This policy benefits one group while imposing costs on another."
-
-And it should be able to say:
-
-> "We don't know."
-
-Those are not failures.
-
-They are signs of a responsible analytical system.
-
----
-
-## 11. Open Research
-
-METAL MONKEY is intended to be an open research framework.
-
-Where possible, the project should publish:
-
-* model assumptions;
-* mathematical methods;
-* data sources;
-* transformation procedures;
-* uncertainty estimates;
-* limitations;
-* reproducible examples;
-* competing interpretations.
-
-Contributors are encouraged to challenge the models rather than merely confirm them.
-
-A model becomes stronger when it survives serious criticism.
-
----
-
-## 12. Long-Term Objective
-
-The long-term objective is to investigate whether economic and ecological resilience can be treated not as competing goals, but as components of a larger stability problem.
-
-The project asks whether:
-
-**economic resilience + ecological renewal + technological progress + human security + transparent governance**
-
-can produce systems that are more resistant to crises and less dependent on conflict.
-
-This remains a hypothesis.
-
-The work begins by testing it.
-
----
-
-# METAL MONKEY PRINCIPLE
-
-> **Model the system.**
+* What patterns are we missing?
+* What perspectives are we ignoring?
+* What assumptions are we making?
+* What resources are we wasting?
+* What happens if we choose differently?
+* Can conflicting human characters find common ground?
+* Can technology help humanity regenerate rather than destroy?
+* Can knowledge be used to expand human freedom rather than reduce it?
+
+The final objective is not control.
+
+It is understanding.
+
+> **METAL MONKEY is a mirror, a laboratory and a tool for exploration.**
 >
-> **Expose the assumptions.**
+> **It does not decide the future.**
 >
-> **Respect the uncertainty.**
->
-> **Protect the human.**
->
-> **Let humans decide.**
+> **It helps us examine the choices that create it.**
