@@ -1,6 +1,119 @@
 # METAL MONKEY
 
-## Global Stability, Economic Resilience & Ecological Renewal
+## Peace, Resources and the Planet
+
+METAL MONKEY considers peace not only a humanitarian objective, but a planetary resource question.
+
+Humanity possesses finite resources:
+
+* energy;
+* minerals;
+* water;
+* food;
+* land;
+* financial capital;
+* industrial capacity;
+* scientific knowledge;
+* human labour;
+* time.
+
+War consumes these resources while destroying additional resources through death, displacement, infrastructure destruction, pollution and environmental damage.
+
+Resources that could be used to build, restore and protect life are instead converted into the capacity to destroy.
+
+This creates a fundamental question:
+
+> **What could humanity build if fewer resources were consumed by conflict?**
+
+METAL MONKEY therefore seeks to model the potential **Peace Dividend**.
+
+The Peace Dividend represents the resources that could potentially become available through the reduction of armed conflict and their subsequent redirection toward constructive purposes.
+
+Possible destinations include:
+
+* ecological restoration;
+* renewable energy;
+* clean water;
+* food security;
+* housing;
+* education;
+* scientific research;
+* healthcare;
+* resilient infrastructure;
+* biodiversity protection;
+* climate adaptation.
+
+The Peace Dividend should not be understood as an assumption that all military expenditure can simply disappear.
+
+Countries have legitimate security concerns, and some defensive expenditure may prevent greater conflict.
+
+The purpose is instead to measure the **opportunity cost of prolonged conflict**.
+
+### From destruction to regeneration
+
+The central question is not:
+
+> "How much does war cost?"
+
+It is:
+
+> **"What could those resources have become?"**
+
+A tonne of steel can become a weapon.
+
+It can also become a bridge.
+
+Energy can power a missile factory.
+
+It can also power a hospital.
+
+Scientific knowledge can improve weapons.
+
+It can also improve agriculture, medicine and environmental restoration.
+
+Human labour can be consumed by destruction.
+
+It can also repair and regenerate.
+
+The material itself does not determine the outcome.
+
+**Human decisions determine how resources are transformed.**
+
+### A planetary accounting system
+
+METAL MONKEY therefore seeks to develop a broader accounting framework in which military, economic, environmental and humanitarian consequences can be considered together.
+
+A conflict should be evaluated not only by its immediate financial cost, but by:
+
+* lives lost;
+* years of life disrupted;
+* infrastructure destroyed;
+* resources consumed;
+* ecological damage;
+* displaced populations;
+* lost economic production;
+* lost scientific and educational opportunity;
+* reconstruction requirements;
+* long-term psychological and social consequences.
+
+The alternative should also be modelled.
+
+If conflict is reduced, what becomes possible?
+
+This is the **Peace Dividend**.
+
+### The ultimate objective
+
+The objective is not to create a world without legitimate differences.
+
+Humanity will continue to contain different interests, cultures, values and characters.
+
+The objective is to develop systems capable of resolving differences without continuously converting human and planetary resources into destruction.
+
+> **The greatest resource humanity possesses is not money, minerals or energy.**
+>
+> **It is the ability to choose what those resources become.**
+
 
 ### Vision
 
