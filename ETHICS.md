@@ -1,458 +1,351 @@
-# METAL MONKEY — Ethical Framework
+# METAL MONKEY — ETHICS
 
-## Purpose
+## 1. Purpose
 
-This document defines the ethical principles and operational boundaries of the METAL MONKEY project.
+METAL MONKEY is an exploratory project dealing with human character, data, cycles, economics, technology, conflict, cooperation and planetary resources.
 
-METAL MONKEY is a research and analytical framework. Its purpose is to help people explore complex economic, ecological and geopolitical systems through transparent modelling.
+Because these subjects can affect how people understand themselves and others, ethical principles are essential.
 
-It is **not an autonomous political authority, intelligence system, surveillance system, or mechanism for controlling people or institutions**.
-
-The principles below apply to the software, models, datasets, documentation and contributions associated with the project.
+The project therefore commits to the following principles.
 
 ---
 
-# 1. Human Responsibility
+## 2. Tool, Not Authority
 
-METAL MONKEY supports human decision-making; it does not replace it.
+METAL MONKEY is a tool, not an authority.
 
-Model outputs must never be presented as commands or as possessing inherent political authority.
+Its outputs must never be presented as unquestionable truth.
 
-A human decision-maker remains responsible for decisions made using information produced by the project.
+No model, simulation, zodiac classification, algorithm or prediction has authority merely because it was produced by METAL MONKEY.
 
-The system should therefore use language such as:
+Users must remain free to:
 
-> "The model estimates..."
+* question;
+* reject;
+* modify;
+* reproduce;
+* criticize;
+* or replace
 
-rather than:
-
-> "The system has determined..."
-
----
-
-# 2. Transparency
-
-Important assumptions must not be hidden.
-
-Where practical, the project should make available:
-
-* model assumptions;
-* mathematical methods;
-* data sources;
-* transformations;
-* uncertainty estimates;
-* known limitations;
-* relevant conflicts of interest;
-* significant changes to methodology.
-
-The project should never intentionally conceal important functionality from users.
-
-**Research principles belong in documentation, not hidden inside executable code.**
+any METAL MONKEY conclusion.
 
 ---
 
-# 3. No Covert Behaviour
+## 3. Human Dignity
 
-METAL MONKEY must not secretly communicate with external systems.
+Every person has equal human dignity regardless of:
 
-The software must not contain undisclosed:
+* nationality;
+* ethnicity;
+* religion;
+* sex;
+* political beliefs;
+* economic status;
+* personality;
+* zodiac sign;
+* birth date;
+* or archetypal classification.
 
-* network requests;
-* tracking mechanisms;
-* telemetry;
-* web beacons;
-* pingbacks;
-* data collection;
-* remote commands;
-* execution mechanisms.
-
-If network communication is required for a legitimate function, it should be documented and understandable to the user.
-
----
-
-# 4. Privacy
-
-The project should minimize the collection and processing of personal information.
-
-METAL MONKEY should not attempt to identify, monitor or profile individuals unless there is a clearly documented and legitimate research purpose and an appropriate legal and ethical basis.
-
-Publicly available information should not automatically be treated as ethically unrestricted information.
-
-The project should prefer:
-
-**aggregate data > identifiable individual data**
-
-whenever aggregate data can answer the research question.
+The Council of 60 must never be used to establish human superiority or inferiority.
 
 ---
 
-# 5. Lawful and Responsible Data
+## 4. No Deterministic Personality Judgement
 
-The project should use data obtained through legitimate means.
+METAL MONKEY may investigate relationships between birth characteristics and personality.
 
-It must not intentionally seek:
+It must never automatically conclude:
 
-* stolen datasets;
-* leaked credentials;
-* classified information;
-* unauthorized access;
-* private databases;
-* compromised systems;
-* restricted information obtained through circumvention.
+> "You were born under X, therefore you are X."
 
-Security-related or geopolitical research should rely on legitimate public sources unless a separate, documented research framework establishes an appropriate basis for other data.
+A zodiac or archetypal classification is not a diagnosis.
 
----
+It is not a justification for discrimination.
 
-# 6. No Surveillance
+It is not a measure of intelligence, morality, competence or human worth.
 
-METAL MONKEY is not a surveillance platform.
-
-It must not be designed to secretly monitor:
-
-* individuals;
-* political opponents;
-* journalists;
-* activists;
-* employees;
-* private organizations;
-* governments or government personnel.
-
-Analysis of public geopolitical events is fundamentally different from surveillance of individuals.
-
-The project should maintain that distinction.
+Any statistical relationship discovered by the project must be evaluated independently of stereotypes.
 
 ---
 
-# 7. No Manipulation
+## 5. Tradition and Evidence
 
-The project must not intentionally be used to manipulate people through:
+METAL MONKEY may investigate traditional systems, including Chinese calendrical and Five Phase traditions.
 
-* targeted political persuasion;
-* deceptive information;
-* fabricated evidence;
-* impersonation;
-* psychological exploitation;
-* coordinated disinformation;
-* concealed influence campaigns.
+Traditional knowledge should be treated respectfully but not automatically as scientific fact.
 
-Analytical models may study propaganda, misinformation or political behaviour as research subjects, but the project should not become an instrument for producing deceptive influence operations.
+The project should distinguish clearly between:
 
----
+1. historical or traditional claims;
+2. METAL MONKEY interpretations;
+3. hypotheses;
+4. empirical observations;
+5. statistically supported relationships;
+6. established scientific knowledge.
 
-# 8. Political Neutrality
-
-METAL MONKEY may analyze governments, political parties, political leaders, conflicts and competing policy proposals.
-
-Analysis does not constitute endorsement.
-
-Models should distinguish between:
-
-**facts → assumptions → model outputs → interpretation → opinion**
-
-whenever practical.
-
-No political actor should receive privileged treatment simply because of their identity.
+These categories must not be deliberately blurred.
 
 ---
 
-# 9. Human Rights
+## 6. Scientific Honesty
 
-The project should respect fundamental human rights and civil liberties.
+METAL MONKEY must not manipulate evidence to support a desired conclusion.
 
-Economic efficiency must not automatically be treated as more important than:
+The project must acknowledge:
 
-* human dignity;
-* freedom;
-* privacy;
-* equality before the law;
-* freedom of expression;
-* freedom of movement;
-* physical safety;
-* democratic participation.
-
-A policy producing a strong economic result may still be ethically unacceptable.
-
-The model should make such trade-offs visible rather than hiding them inside a single "optimal" score.
-
----
-
-# 10. Avoiding False Precision
-
-Complex social systems cannot be reduced perfectly to a single number.
-
-METAL MONKEY should avoid presenting uncertain predictions as facts.
-
-Where appropriate, outputs should include:
-
-* confidence intervals;
-* ranges;
-* alternative scenarios;
-* sensitivity analysis;
 * uncertainty;
-* model limitations.
+* contradictory evidence;
+* methodological weaknesses;
+* alternative explanations;
+* sampling limitations;
+* statistical uncertainty;
+* and failed experiments.
 
-If the available evidence is insufficient, the correct output may be:
+Negative results are valuable.
 
-> **Insufficient evidence.**
+A hypothesis becoming weaker is a legitimate result.
 
-That is preferable to false certainty.
-
----
-
-# 11. No Single "Optimal" Future
-
-The project should not assume that there is one objectively correct political, economic or ecological future.
-
-Different people and societies may legitimately assign different values to:
-
-* economic growth;
-* equality;
-* environmental protection;
-* security;
-* individual freedom;
-* technological development;
-* cultural preservation.
-
-Where values conflict, the model should expose the trade-off rather than silently selecting a winner.
+A model being disproved is not a failure of the project.
 
 ---
 
-# 12. The Council of 60
+## 7. Correlation Is Not Causation
 
-The "Council of 60" is an analytical framework, not an actual governing body.
+The appearance of a relationship between two variables does not establish that one causes the other.
 
-Its dimensions should be treated as perspectives for evaluating scenarios.
+This is particularly important for:
 
-No dimension automatically overrides all others.
+* planetary cycles;
+* zodiac classifications;
+* economic cycles;
+* historical conflicts;
+* environmental conditions;
+* and personality.
 
-Where weighting is used, the methodology should explain:
+METAL MONKEY must distinguish:
 
-* why the weight was selected;
-* who selected it;
-* what alternatives were considered;
-* how the result changes under different weights.
+**coincidence → correlation → plausible mechanism → causal evidence**
 
----
-
-# 13. Geopolitical and Military Analysis
-
-The project may examine geopolitical or military-economic variables when this contributes to legitimate research.
-
-However, the purpose should remain **analysis rather than operational assistance**.
-
-The project should not provide instructions intended to facilitate:
-
-* attacks;
-* weapons construction;
-* sabotage;
-* unauthorized intrusion;
-* intelligence collection against individuals;
-* evasion of security systems;
-* operational targeting.
-
-High-level analysis of conflict and its economic consequences is permitted within this framework.
+and must not skip steps.
 
 ---
 
-# 14. Environmental Responsibility
+## 8. Privacy
 
-Environmental claims should be supported by identifiable evidence whenever possible.
+Personal data must be handled with care.
 
-The project should avoid presenting an intervention as "green" merely because it is described that way.
+The project should collect only information necessary for a legitimate research purpose.
 
-Environmental consequences should be evaluated across the full system, including where relevant:
+Where possible:
 
-* resource extraction;
-* manufacturing;
-* transportation;
-* energy consumption;
-* waste;
-* ecosystem effects;
-* lifecycle emissions.
+* anonymize personal information;
+* minimize personally identifiable data;
+* avoid publishing sensitive individual information;
+* obtain consent for research involving identifiable participants;
+* and provide clear explanations of how data are used.
 
----
-
-# 15. Distributional Effects
-
-A policy that improves an average indicator may still harm particular groups.
-
-Therefore, where data allows, METAL MONKEY should examine:
-
-* who benefits;
-* who bears the cost;
-* regional differences;
-* income differences;
-* intergenerational effects;
-* short-term versus long-term effects.
-
-"Average improvement" must not automatically be interpreted as "everyone benefits."
+No person should be exposed merely because they participated in METAL MONKEY research.
 
 ---
 
-# 16. Reversibility and Precaution
+## 9. No Manipulation
 
-When a proposed intervention could create large or irreversible consequences, the project should apply greater caution.
+METAL MONKEY must not be designed to manipulate people through psychological profiling, fear, deception or hidden persuasion.
 
-Scenario analysis should consider:
+In particular, the Council of 60 should not become a covert system for targeting individuals.
 
-* What happens if the policy fails?
-* Can it be reversed?
-* How quickly?
-* Who bears the cost of failure?
-* Are there safer alternatives?
-* What evidence would justify proceeding?
-
-The larger the potential irreversible harm, the stronger the evidence should be.
+Its purpose is understanding and representation, not behavioral exploitation.
 
 ---
 
-# 17. Independent Criticism
+## 10. Peace
 
-The project should actively encourage criticism.
+METAL MONKEY is committed to peaceful purposes.
 
-Contributors should be able to challenge:
+The project may analyze:
 
-* assumptions;
-* datasets;
-* methodology;
-* ethical conclusions;
-* model outputs;
-* interpretation.
+* conflict;
+* military expenditure;
+* weapons industries;
+* geopolitical competition;
+* strategic decision-making;
+* and security.
 
-A successful model is not one that confirms its creator's beliefs.
+Such analysis should seek understanding and conflict reduction rather than facilitate violence.
 
-A successful model is one that makes disagreement easier to investigate.
+The project should prioritize:
 
----
-
-# 18. Reproducibility
-
-Important analytical results should be reproducible whenever legally and technically possible.
-
-A published result should identify:
-
-* the data used;
-* the relevant model version;
-* important parameters;
-* calculation methodology;
-* known limitations.
-
-If exact reproduction is impossible because data is unavailable or proprietary, that limitation should be clearly stated.
+* human life;
+* civilian protection;
+* diplomacy;
+* conflict prevention;
+* reconstruction;
+* ecological recovery;
+* and peaceful cooperation.
 
 ---
 
-# 19. Security
+## 11. The Peace Dividend
 
-Security is part of ethics.
+When studying military or conflict-related resources, METAL MONKEY should not assume that all defense spending is unnecessary.
 
-The project should follow basic principles including:
+Legitimate security requirements exist.
 
-* least privilege;
-* minimal data collection;
-* dependency awareness;
-* secure handling of credentials;
-* explicit network behaviour;
-* code review;
-* reproducible builds where practical.
+Instead, the project should investigate the opportunity cost of conflict and possible transformations of economic and technological capacity toward constructive purposes.
 
-Secrets must never be committed to the repository.
-
-Opaque encoded content should not be used to conceal program behaviour.
+Any proposed percentage, formula or financial mechanism must be presented as a **model or scenario**, not as an established policy recommendation unless independently supported.
 
 ---
 
-# 20. Conflicts of Interest
+## 12. Independence and Resistance to Capture
 
-Contributors should disclose significant conflicts of interest when they could reasonably affect interpretation of research.
+Every organization can be influenced by economic, political or institutional interests.
 
-This is particularly important when research concerns:
+This includes:
 
+* corporations;
 * governments;
 * political organizations;
-* financial institutions;
 * military organizations;
-* energy companies;
-* technology companies;
-* environmental organizations.
+* intelligence organizations;
+* investors;
+* donors;
+* media organizations;
+* and technology platforms.
 
-Disclosure does not invalidate research.
+METAL MONKEY therefore seeks to minimize institutional capture.
 
-It helps readers evaluate it appropriately.
+No external actor should have unilateral authority over:
 
----
+* the project's methodology;
+* its conclusions;
+* its published history;
+* or its scientific interpretation.
 
-# 21. AI-Assisted Development
+### Transparency
 
-If artificial intelligence is used to generate code, analysis, documentation or research material, contributors remain responsible for reviewing the result.
+Where reasonably possible, METAL MONKEY should disclose:
 
-AI-generated content should not automatically be treated as:
-
-* factual;
-* unbiased;
-* secure;
-* mathematically correct;
-* ethically acceptable.
-
-Important claims should be independently checked.
-
----
-
-# 22. Responsible Publication
-
-Before publishing a new model, dataset or capability, contributors should consider:
-
-1. What does this enable?
-2. Who could benefit?
-3. Who could be harmed?
-4. Could the information facilitate abuse?
-5. Can the same research goal be achieved with less risk?
-6. Are important limitations clearly documented?
-
-When necessary, sensitive implementation details may be withheld while the research concept and methodology remain publicly documented.
+* funding;
+* major contributors;
+* conflicts of interest;
+* methodology;
+* data sources;
+* significant methodological changes;
+* and corrections.
 
 ---
 
-# 23. The Right to Say "Stop"
+## 13. No Enemy Is Required
 
-Any contributor may raise an ethical concern about a proposed capability or dataset.
+METAL MONKEY must not assume the existence of a hidden conspiracy merely because different institutions have conflicting incentives.
 
-A concern should be investigated rather than dismissed simply because the feature is technically possible.
+Structural incentives are sufficient reason to investigate conflicts of interest.
 
-If the project cannot establish that a capability can be developed responsibly, development should pause until the concern is resolved.
+Claims about secret coordination require evidence.
 
----
+The project should respond to suspected interference with:
 
-# 24. Core Principle
-
-METAL MONKEY should follow one fundamental rule:
-
-> **Capability does not create authority.**
-
-A model may become increasingly capable of analysing complex systems.
-
-That does not give it the right to decide what humanity should do.
-
-The project's responsibility is therefore to make analysis:
-
-**transparent, evidence-based, uncertain where appropriate, ethically bounded, and ultimately accountable to humans.**
+**documentation, verification, transparency and evidence — not speculation.**
 
 ---
 
-## Final Commitment
+## 14. Security
 
-METAL MONKEY exists to explore difficult questions, not to claim ownership of their answers.
+The public project should not publish:
 
-It should remain:
+* credentials;
+* private keys;
+* personal data;
+* hidden tracking mechanisms;
+* covert access mechanisms;
+* private intelligence;
+* or operational instructions that could facilitate harm.
 
-**Open enough to be examined.
-Honest enough to admit uncertainty.
-Careful enough to avoid unnecessary harm.
-Ambitious enough to investigate difficult problems.
-Humble enough to recognize its limitations.**
+Historical source material may be preserved privately where appropriate, but publication is not required merely because something was part of the project's history.
 
-> **Model the system.
-> Expose the assumptions.
-> Respect the uncertainty.
-> Protect the human.
-> Let humans decide.**
+---
+
+## 15. No Political Capture
+
+METAL MONKEY may study political leaders and political systems.
+
+It must not become an instrument for:
+
+* electoral manipulation;
+* targeted political persuasion;
+* propaganda;
+* harassment;
+* or political discrimination.
+
+A leader's zodiac character may be studied as part of a research hypothesis, but it must never be treated as evidence that the leader is inherently good, bad, competent or incompetent.
+
+---
+
+## 16. The Council of 60
+
+The Council must represent diversity, not hierarchy.
+
+Every archetype should have an opportunity to be examined.
+
+No archetype should possess permanent authority.
+
+The Council should be able to disagree with itself.
+
+A useful model is not one in which all 60 eventually agree.
+
+A useful model is one in which disagreement becomes visible and understandable.
+
+---
+
+## 17. Transparency of AI
+
+If artificial intelligence is used by METAL MONKEY, AI-generated analysis must not be presented as independent human judgment.
+
+AI systems can:
+
+* hallucinate;
+* reproduce bias;
+* overfit patterns;
+* misunderstand context;
+* and generate convincing but incorrect explanations.
+
+AI should therefore assist investigation rather than become an unquestionable source of truth.
+
+---
+
+## 18. Correction
+
+When METAL MONKEY discovers that it is wrong, it should correct itself publicly where practical.
+
+Previous conclusions should not simply disappear.
+
+Corrections should preserve enough history to understand:
+
+* what was believed;
+* what evidence changed the conclusion;
+* and why the model was changed.
+
+---
+
+## 19. The Core Ethical Rule
+
+> **METAL MONKEY must never become more important than the people it is intended to serve.**
+
+The project exists for exploration.
+
+Not control.
+
+Not authority.
+
+Not manipulation.
+
+Not profit at the expense of humanity.
+
+Not ideological domination.
+
+Its purpose is to help people examine difficult questions more openly and responsibly.
+
+> **Do not ask people to trust METAL MONKEY.**
+>
+> **Give them enough information that they can verify it themselves.**
