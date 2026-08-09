@@ -84,189 +84,147 @@ The model should examine both potential benefits and unintended consequences.
 
 ---
 
-## 4.1. The Council of 60 — A Complete Human Spectrum
+## 4. The Council of 60 — The Complete Cycle
 
-The concept of the **Council of 60** originates from the hypothesis that human character and behavioural tendencies can be represented through a recurring **60-year cycle**.
+The concept of the **Council of 60** is inspired by the traditional Chinese calendrical system known as the **sexagenary cycle**, a repeating cycle of 60 combinations.
 
-The number 60 is therefore not arbitrary.
+The framework combines the twelve traditional zodiac animals with the five classical elements:
 
-The underlying idea is that, across a complete cycle, different expressions of human character, temperament, experience, values and ways of approaching problems become represented. A council constructed around the full cycle would therefore attempt to avoid concentrating decision-making around only one type of human perspective.
+**12 animals × 5 elements = 60 combinations**
 
-The Council of 60 is consequently conceived not as a political ruling body, but as a **symbolic and analytical representation of the diversity of human character**.
+More precisely, the traditional system combines the **Twelve Earthly Branches** with the **Ten Heavenly Stems**, producing a complete 60-combination cycle in which the five elements appear through yin and yang aspects.
 
-### The principle
+METAL MONKEY uses this traditional structure as an **archetypal framework for exploring human diversity**.
 
-> **If humanity contains many different ways of seeing the world, a system intended to serve humanity should not be designed around only one of them.**
+### Why 60?
 
-Each position in the Council represents one part of the proposed 60-year cycle.
+The number 60 represents a complete cycle.
 
-The purpose is not to claim that every person can be reduced to a single category. Human beings are considerably more complex than any classification system.
+Within the METAL MONKEY concept, each of the 60 combinations represents a different archetypal configuration of human characteristics.
 
-Instead, the cycle provides a framework for asking:
+The Council therefore attempts to represent the idea that humanity is not composed of one kind of person, one way of thinking, or one set of values.
 
-* Which perspectives are represented?
-* Which perspectives are missing?
-* Which values are in conflict?
-* Which types of reasoning dominate the decision?
-* What would a different character perspective see that the current model overlooks?
+Instead:
 
-### The 60-year hypothesis
+> **A system intended to serve humanity should attempt to see humanity through many different perspectives.**
 
-The 60-year cycle should initially be treated as a **research hypothesis and philosophical framework**, not as an established scientific law.
+### Tradition and interpretation
 
-The project should investigate whether measurable patterns in human behaviour, demographics, historical events, cultural development or other relevant data provide evidence supporting or challenging the hypothesis.
+METAL MONKEY does not claim that the Chinese zodiac scientifically proves the existence of 60 distinct personality types.
 
-If evidence contradicts the hypothesis, the model should be changed.
+The traditional system is used here as a **cultural and philosophical starting point**.
 
-The purpose of research is not to prove the original idea correct.
+The project is interested in whether these archetypes can provide a useful language for discussing differences in:
 
-### Diversity rather than hierarchy
-
-No position within the 60 should be considered inherently superior to another.
-
-A character associated with caution is not automatically better than one associated with exploration.
-
-A character associated with stability is not automatically better than one associated with disruption.
-
-A character associated with individual freedom is not automatically better than one associated with collective responsibility.
-
-The value of the Council comes from **the interaction between different perspectives**.
-
-### From archetypes to analysis
-
-If the framework develops into a computational model, each of the 60 positions could eventually be represented through a transparent set of characteristics.
-
-For example:
-
+* temperament;
 * risk tolerance;
-* curiosity;
-* conservatism;
-* empathy;
-* competitiveness;
 * cooperation;
 * independence;
-* patience;
 * creativity;
-* analytical reasoning;
-* social orientation;
-* preference for stability;
-* willingness to experiment.
+* stability;
+* ambition;
+* empathy;
+* analytical thinking;
+* adaptability;
+* patience;
+* leadership;
+* conflict response.
 
-These characteristics should not be treated as fixed descriptions of individuals.
+These characteristics should be treated as **archetypal tendencies**, not fixed properties of individuals.
 
-They are modelling dimensions intended to explore how different perspectives might respond to the same problem.
+### No person is only one archetype
 
-### The Council as a safeguard
+A person's birth-year association does not define their entire personality.
 
-The Council of 60 can therefore serve as a safeguard against **single-perspective optimization**.
+Human behaviour is influenced by:
 
-Before accepting a proposed solution, the model could ask:
+* upbringing;
+* culture;
+* education;
+* environment;
+* relationships;
+* personal experience;
+* historical circumstances;
+* individual choices.
 
-> Would this solution still appear desirable from substantially different human perspectives?
+The Council of 60 therefore should never be used to decide what a person is, what they are capable of, or what they should be permitted to do.
 
-If the answer is no, the disagreement should become visible.
+It is a framework for exploring perspectives, not a mechanism for assigning people to permanent categories.
 
-The objective is not to eliminate disagreement.
+### The Council
 
-The objective is to **make disagreement part of the model**.
+In its conceptual form, the Council contains one representative of each of the 60 archetypal combinations.
 
-### Human beings remain more complex than the model
+The representatives do not necessarily need to be actual people.
 
-No 60-part framework can fully represent humanity.
+They may initially exist as **analytical perspectives** within a simulation.
 
-People change throughout their lives.
-People contain contradictory characteristics.
-Culture influences behaviour.
-Environment influences behaviour.
-Experience changes behaviour.
+For a given problem, each archetype could ask different questions:
 
-Therefore, the Council of 60 should never be used to assign a person a permanent identity or determine what an individual is allowed to do.
+> What risks are we overlooking?
 
-It is a framework for exploring perspectives — **not a classification system for controlling people**.
+> What opportunities are we missing?
+
+> Who could be harmed?
+
+> What happens if we move too quickly?
+
+> What happens if we wait?
+
+> What happens if cooperation fails?
+
+> What happens if the unexpected occurs?
+
+The objective is to create a structured confrontation between different ways of thinking.
+
+### From archetype to model
+
+A future implementation could translate the 60 archetypes into explicit, testable parameters.
+
+For example, an archetype might have relative tendencies toward:
+
+| Dimension             | Example |
+| --------------------- | ------: |
+| Risk tolerance        |   0–100 |
+| Innovation            |   0–100 |
+| Stability preference  |   0–100 |
+| Cooperation           |   0–100 |
+| Independence          |   0–100 |
+| Long-term orientation |   0–100 |
+| Resource conservation |   0–100 |
+| Social sensitivity    |   0–100 |
+
+These numbers would not be presented as scientific measurements of people born under a particular zodiac sign.
+
+They would represent **the assumptions of the model** and should therefore remain transparent and adjustable.
+
+### Diversity as a safeguard
+
+The Council of 60 is intended to prevent a single worldview from dominating the analytical process.
+
+A proposed policy should ideally be examined from multiple archetypal perspectives before being considered robust.
+
+If most perspectives support a proposal but several strongly oppose it, that disagreement should not simply be averaged away.
+
+It should be investigated.
 
 ### The deeper principle
 
-The Council of 60 is ultimately based on a simple idea:
+The Council of 60 is ultimately an experiment in **structured pluralism**.
 
-> **A system designed for humanity should attempt to see humanity from more than one point of view.**
+It asks:
 
-The 60-year cycle provides the structure through which METAL MONKEY intends to explore that idea.
+> **What happens when a complex decision is examined through a complete cycle of different human archetypes rather than through a single perspective?**
 
-Whether the cycle represents a genuine recurring pattern, a useful archetypal framework, or simply a philosophical metaphor remains an open question.
+The Chinese 60-cycle provides the cultural architecture.
 
-The project should allow the evidence to determine the answer.
+METAL MONKEY provides the modern analytical interpretation.
 
+The distinction between the two should remain explicit.
 
-## 4.2. The Council of 60
-
-The original METAL MONKEY concept included a "Council of 60."
-
-In the research framework, this is interpreted as **60 analytical dimensions**, rather than a political body.
-
-Possible dimensions include:
-
-1. economic stability
-2. inflation
-3. employment
-4. inequality
-5. public debt
-6. energy security
-7. energy affordability
-8. food security
-9. water security
-10. environmental pressure
-11. biodiversity
-12. emissions
-13. technological resilience
-14. infrastructure resilience
-15. trade resilience
-16. supply-chain resilience
-17. scientific capacity
-18. education
-19. healthcare
-20. demographic stability
-21. social cohesion
-22. civil liberties
-23. institutional resilience
-24. transparency
-25. corruption risk
-26. geopolitical risk
-27. conflict risk
-28. migration pressure
-29. resource dependence
-30. critical-mineral availability
-31. cybersecurity resilience
-32. information integrity
-33. innovation
-34. productivity
-35. investment
-36. financial stability
-37. currency stability
-38. housing affordability
-39. regional development
-40. rural resilience
-41. urban resilience
-42. climate adaptation
-43. disaster preparedness
-44. public infrastructure
-45. transport
-46. communications
-47. energy transition
-48. circular economy
-49. resource efficiency
-50. ecosystem restoration
-51. intergenerational equity
-52. human security
-53. technological ethics
-54. scientific transparency
-55. policy uncertainty
-56. model uncertainty
-57. distributional effects
-58. unintended consequences
-59. reversibility of policy
-60. long-term systemic resilience
-
-The number **60 is not sacred**. It is a framework for ensuring that a policy is not evaluated through a single economic or political metric.
+**Tradition provides the inspiration.
+Modelling provides the experiment.
+Evidence determines what survives.**
 
 ---
 
