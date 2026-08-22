@@ -1,463 +1,355 @@
-# METAL MONKEY
+# 🐒 Metal Monkey
 
-> **A tool for exploring patterns, perspectives, cycles and possible futures.**
->
-> **Not an authority. Not a prophecy. A laboratory for ideas.**
+> 🐘 **Keep looking. Keep listening.**
+> **The elephant is bigger than any of us.**
 
----
+## You are not wrong.
 
-## What is METAL MONKEY?
+### You are standing somewhere.
 
-METAL MONKEY is an open research framework exploring relationships between:
+Metal Monkey is an experimental project exploring **human perspective**.
 
-* human character and behaviour;
-* cycles and time;
-* environmental conditions;
-* astronomy;
-* economics and volatility;
-* technology and resources;
-* conflict and cooperation;
-* and planetary resilience.
+It begins with a simple observation:
 
-The project combines traditional knowledge, quantitative analysis, computational modelling and philosophical inquiry.
+Two people can experience the same situation and see something different.
 
-It is deliberately interdisciplinary.
+They may choose different answers.
+They may reach different conclusions.
+They may even disagree strongly.
 
-Some of its questions are conventional.
+That does not automatically mean that one of them is wrong.
 
-Some are unconventional.
-
-The purpose is not to assume that every idea is correct.
-
-The purpose is to **investigate whether interesting ideas survive examination**.
+They may simply be standing somewhere else around the same elephant.
 
 ---
 
-## Tool, Not Authority
+## 🐘 The Elephant Principle
 
-**METAL MONKEY is a tool, not an authority.**
+Imagine several people standing around a large elephant.
 
-It does not decide what is true.
+One sees the trunk.
+Another sees a leg.
+Another sees the tail.
+Another sees an ear.
 
-It does not predict human destiny.
+Each person sees something real.
 
-It does not tell people what to believe.
+The problem begins when one person assumes that what they can see is the entire elephant.
 
-It does not replace science, democratic institutions, diplomacy or human judgment.
+Human beings face a similar problem.
 
-Instead, it provides frameworks for:
+We see the world from somewhere.
 
-* observing patterns;
-* comparing perspectives;
-* testing hypotheses;
-* modelling possible outcomes;
-* identifying uncertainty;
-* and exploring alternative decisions.
+Our perspective is influenced by our experiences, relationships, culture, education, circumstances, successes, failures and everything we have encountered before.
 
-> **Question it. Test it. Improve it. Disagree with it.**
+We cannot easily step outside our own position.
 
-If METAL MONKEY cannot withstand criticism, it has failed its purpose.
+But we can become curious about the positions of others.
+
+That is where Metal Monkey begins.
 
 ---
 
-## Why "Metal Monkey"?
+## The Seed of Perspective
 
-The name represents the character of the project.
+The purpose of the Metal Monkey test is **not to tell people who they are**.
 
-### Monkey
+It is to make them notice that other people may see the same world differently.
 
-Curiosity.
+A test does not have to perfectly identify a person's archetype to be valuable.
 
-Adaptability.
+Sometimes the most important result is simply:
 
-Experimentation.
+> **"Someone else looked at the same thing — and saw something different."**
 
-Creativity.
+That can lead to another question:
 
-The willingness to look at a problem from an unexpected direction.
+> **"Why did I choose this?"**
 
-The Monkey asks:
+And then:
 
-> **"What if there is a connection?"**
+> **"Why did they choose something else?"**
 
-### Metal
+The movement is from:
 
-Structure.
+**certainty → curiosity**
 
-Precision.
+and from:
 
-Discipline.
+**judgment → observation**
 
-Critical thinking.
+The goal is not to erase differences.
 
-The willingness to remove an attractive idea when the evidence does not support it.
+The goal is to make differences visible **without turning them into contempt or conflict**.
 
-Metal asks:
+---
 
-> **"Can we demonstrate it?"**
+## The Test Is a Mirror, Not a Verdict
 
-Together:
+Metal Monkey does not ask the participant to accept a permanent label.
 
-> **The Metal Monkey sees patterns, but does not worship them.**
+A result may reflect what naturally attracts a person **at a particular moment** rather than an eternal, unchanging identity.
+
+A person's perspective can change.
+
+Life can change.
+
+The way a person sees the world can change.
+
+That does not necessarily make an earlier result meaningless.
+
+It may simply mean that the mirror is reflecting something different.
+
+The important question is therefore not only:
+
+> **"What type am I?"**
+
+but:
+
+> **"What do I naturally notice?"**
+
+And perhaps even more importantly:
+
+> **"What can someone else see that I cannot?"**
 
 ---
 
 # The Council of 60
 
-One of the central ideas of METAL MONKEY is the **Council of 60**.
+Metal Monkey explores an experimental structure called the **Council of 60**.
 
-The traditional Chinese calendrical system combines:
+The starting point is the traditional structure:
 
-**12 animal / earthly-branch associations × 5 elemental phases = 60 combinations**
+**12 × 5 = 60**
 
-METAL MONKEY explores whether these 60 combinations can serve as a structured set of human archetypal perspectives.
+The Chinese zodiac provides the structural inspiration, but Metal Monkey is **not presented simply as Chinese astrology**.
 
-The Council is not intended to claim that a person's birth date determines their personality.
+The deeper hypothesis is whether these traditional combinations can provide a useful map for exploring different ways of observing, interpreting and approaching reality.
 
-Instead, it provides a research question:
+This remains a **working hypothesis**, not an established scientific fact.
 
-> **Can recurring symbolic character types help us represent a broader range of human perspectives when examining complex decisions?**
+The Council should therefore not be understood as sixty boxes into which human beings must permanently fit.
 
-Every position has a voice.
-
-No position is inherently superior.
-
-No position is inherently inferior.
-
-The objective is not to make everyone agree.
-
-The objective is to make disagreement visible.
+It is better understood as a map of possible positions around the elephant.
 
 ---
 
-# From Archetypes to Research
+## From Classification to Connection
 
-METAL MONKEY treats traditional character descriptions as **hypotheses and cultural observations**, not established scientific facts.
+The Council is not intended to create sixty isolated personality types.
 
-A proposed relationship can move through several stages:
+Its deeper purpose is to explore **connections between perspectives**.
 
-```text
-Traditional idea
-       ↓
-Interpretation
-       ↓
-Observable hypothesis
-       ↓
-Data
-       ↓
-Statistical test
-       ↓
-Independent replication
-       ↓
-Supported / rejected / unresolved
-```
+Different layers of the model may create different kinds of bridges between people.
 
-This distinction is fundamental.
+A person may share one kind of connection with someone through a common foundation, another through Yin/Yang, another through an element, and another through a different pattern of attraction or response.
 
-A traditional association is not automatically a scientific discovery.
+These connections do not have to lead to the same people.
 
-A correlation is not automatically causation.
+That is part of the point.
 
-A simulation is not automatically reality.
+A person can be close to one perspective in one way and very different from it in another.
+
+The Council is therefore better imagined as a **network** than as a list.
 
 ---
 
-# Cycles and the Human Environment
+## The Bridges
 
-The project is interested in recurring cycles at different scales.
+One person may understand another naturally.
 
-These may include:
+Two other people may struggle to understand each other.
 
-* seasonal cycles;
-* economic cycles;
-* demographic cycles;
-* technological cycles;
-* historical cycles;
-* astronomical cycles;
-* and the traditional 60-year Chinese calendrical cycle.
+That does not necessarily mean that they are incompatible.
 
-The project asks whether apparently separate cycles may interact.
+There may be a third person who can understand something about both.
 
-It does **not** assume that planetary cycles cause human events.
+That person can become a bridge.
 
-Instead, astronomical relationships and possible human correlations are treated as hypotheses that require evidence.
+The Council therefore does not require everyone to understand everyone else directly.
 
----
+It asks a different question:
 
-# Material and Process
+> **Who can help one perspective reach another?**
 
-METAL MONKEY is also interested in the contrast between different ways of describing nature.
+The goal is not to remove the distance between perspectives.
 
-Modern chemistry describes matter through structures such as the periodic table.
+It is to make the bridges across that distance visible.
 
-Traditional Chinese thought uses the Five Phases — commonly translated as:
-
-**Wood · Fire · Earth · Metal · Water**
-
-These are not treated as equivalent scientific systems.
-
-Instead, METAL MONKEY asks whether they represent fundamentally different modelling approaches:
-
-> **Material — what something is.**
-
-> **Process — how something changes and interacts.**
-
-Understanding the difference between models may be more useful than forcing them into one system.
+> **The Council does not eliminate distance between perspectives.
+> It builds bridges across it.**
 
 ---
 
-# Economics, Resources and Variance
+## Difference Without Contempt
 
-The original technical foundation of this repository is quantitative analysis of economic time-series data.
+A central design principle of Metal Monkey is that different answers should be genuinely attractive to different people.
 
-Current tools focus on concepts including:
+An answer should not be deliberately presented as:
 
-* variance;
-* volatility;
-* standard deviation;
-* z-scores;
-* outlier detection;
-* and time-series data processing.
+* stupid,
+* weak,
+* ridiculous,
+* cowardly,
+* immoral,
+* or socially inferior.
 
-These tools form an important technical foundation for the wider project.
+The participant should be able to encounter another choice and think:
 
-The long-term question is broader:
+> **"That is not my way, but I understand why someone else would choose it."**
 
-> **How does variation in economic systems interact with human decisions, resources, conflict and resilience?**
+This is one of the project's central aims:
 
-The project therefore treats economic modelling not as an isolated subject, but as one component of a larger system.
-
----
-
-# The Peace Dividend
-
-Humanity has finite resources.
-
-Energy, materials, capital, industrial capacity, scientific knowledge and human labour can be directed toward either destructive or constructive outcomes.
-
-METAL MONKEY investigates the concept of a **Peace Dividend**:
-
-> **What could humanity build if fewer resources were consumed by prolonged conflict?**
-
-Potential areas of investigation include:
-
-* renewable energy;
-* clean water;
-* food security;
-* ecological restoration;
-* resilient infrastructure;
-* education;
-* healthcare;
-* scientific research;
-* disaster preparedness;
-* and biodiversity protection.
-
-This is not a claim that all military expenditure can simply disappear.
-
-Countries have legitimate security concerns.
-
-The research question is instead:
-
-> **What is the opportunity cost of prolonged conflict, and what constructive capacity could cooperation release?**
+### **Difference without contempt.**
 
 ---
 
-# A Different Question About Technology
+## Observation Before Confirmation
 
-Technology is not inherently destructive or constructive.
+Metal Monkey is an evolving experiment.
 
-The same industrial capability can often serve very different purposes.
+The model is allowed to be wrong.
 
-For example:
+Questions are allowed to remain unresolved.
 
-```text
-Satellite technology
-        ├── military applications
-        └── climate monitoring
+Unexpected results are not automatically failures.
 
-Drone technology
-        ├── military applications
-        └── environmental surveying
+They may reveal that:
 
-Advanced materials
-        ├── weapons systems
-        └── renewable infrastructure
+* a question is ambiguous,
+* several motivations are hidden inside one answer,
+* a person's current attraction differs from their deeper pattern,
+* or the model itself needs to change.
 
-Logistics
-        ├── military supply
-        └── humanitarian response
-```
+The project therefore tries to follow:
 
-METAL MONKEY is interested in the transformation of technological and industrial capacity toward long-term human and planetary resilience.
+> **Voices → observations → patterns**
 
----
+rather than:
 
-# A Research Framework, Not a Belief System
+> **Model → desired evidence → confirmation**
 
-METAL MONKEY welcomes unusual hypotheses.
-
-But unusual does not mean true.
-
-Every hypothesis should eventually face:
-
-* measurement;
-* statistical analysis;
-* competing explanations;
-* replication;
-* criticism;
-* and the possibility of rejection.
-
-The project therefore maintains a strict distinction between:
-
-**belief**
-
-**tradition**
-
-**observation**
-
-**hypothesis**
-
-**correlation**
-
-**causal explanation**
-
-**established evidence**
-
-This distinction is one of the project's most important safeguards.
+A pattern is interesting because it survives investigation, not because we wanted to find it.
 
 ---
 
-# Ethics
+## Quotations as Perspectives
 
-METAL MONKEY is committed to:
+One direction being explored is the use of quotations and short philosophical statements.
 
-* human dignity;
-* privacy;
-* scientific honesty;
-* transparency;
-* peaceful purposes;
-* independence from political and corporate capture;
-* resistance to manipulation;
-* and responsible use of data and AI.
+Instead of asking:
 
-The Council of 60 must never be used to discriminate against people.
+> "Which description is most like you?"
 
-No zodiac classification should determine a person's rights, opportunities, intelligence, morality or worth.
+a person may simply encounter two meaningful thoughts and choose the one that speaks to them more.
 
-See [`ETHICS.md`](ETHICS.md).
+This approach may reveal spontaneous attraction without requiring the participant to consciously describe themselves.
 
----
+The quotation library also follows an important rule:
 
-# Methodology
+**Historical quotations must be distinguished from inspired and original Metal Monkey quotations.**
 
-The project follows a simple principle:
+Words borrowed from others should never be presented as our own.
 
-> **The Monkey sees the pattern.
-> The Metal tests the pattern.
-> The Council challenges the pattern.
-> Evidence decides what survives.**
-
-See [`METHODOLOGY.md`](METHODOLOGY.md) for the research framework.
+Attribution should be verified whenever possible.
 
 ---
 
-# Vision
+## What Metal Monkey Is Exploring
 
-The broader purpose of METAL MONKEY is described in [`VISION.md`](VISION.md).
+The project is exploring whether a structured map of perspectives can help people:
 
-The vision is not to predict the future with certainty.
+* notice their own natural perspective,
+* recognize that other perspectives exist,
+* understand disagreement differently,
+* discover connections between apparently different people,
+* communicate across differences,
+* and become curious about what they cannot see themselves.
 
-It is to improve humanity's ability to examine the choices that create it.
+A possible future direction is a four-step journey:
 
----
+### 1. Know your place
 
-# Repository Structure
+> Where am I standing around the elephant?
 
-```text
-metal-monkey/
-│
-├── README.md
-├── VISION.md
-├── ETHICS.md
-├── METHODOLOGY.md
-│
-├── data_analyzer.py
-├── requirements.txt
-│
-├── data/
-│   └── ...
-│
-├── research/
-│   └── ...
-│
-└── docs/
-    └── ...
-```
+### 2. Know their place
 
-The current economic-analysis code represents the first technical layer of the project.
+> Where might the other person be standing?
 
-Future work may add:
+### 3. Speak their language
 
-* Council of 60 archetype models;
-* historical-cycle analysis;
-* astronomical-cycle calculations;
-* environmental datasets;
-* economic simulations;
-* conflict and cooperation models;
-* resource-transformation scenarios;
-* and multi-perspective decision analysis.
+> How can I communicate in a way that respects their perspective?
+
+### 4. Complete the elephant
+
+> What can they see that I cannot?
+
+This is an exploration, not a finished system.
 
 ---
 
-# Current Status
+## What Metal Monkey Does Not Claim
 
-METAL MONKEY is an **early-stage experimental project**.
+Metal Monkey does **not** claim that:
 
-Some components are established software.
+* a person's birth date determines their personality,
+* the Council of 60 has been scientifically proven,
+* every person can be permanently reduced to one archetype,
+* one perspective is automatically more correct than another,
+* or the test can provide a definitive answer to who someone is.
 
-Some are research ideas.
+The project is deliberately experimental.
 
-Some are hypotheses.
+Its hypotheses may change as observations accumulate.
 
-Some are philosophical questions.
+Its models may be refined, replaced or rejected.
 
-They should not be confused with one another.
+That is part of the process.
 
-The project is expected to change as evidence, criticism and experimentation provide new information.
-
----
-
-# Contributing
-
-Contributions are welcome, especially those that:
-
-* improve reproducibility;
-* identify errors;
-* provide better datasets;
-* challenge assumptions;
-* improve statistical methods;
-* propose alternative models;
-* reproduce results;
-* or connect the project with relevant scientific literature.
-
-You do not need to agree with METAL MONKEY to contribute.
-
-In fact, **well-supported disagreement may be one of the most valuable contributions.**
+> **Never delete a perspective just because you found a better one.**
 
 ---
 
-# The Principle
+## The Core Idea
 
-> **METAL MONKEY is not here to tell humanity what to think.**
->
-> **It is here to help humanity think about what it may have overlooked.**
+The most important question in Metal Monkey may not be:
 
-The Monkey remains curious.
+> **"Who is right?"**
 
-The Metal remains skeptical.
+It may be:
 
-The Council remains diverse.
+> **"What can you see that I cannot?"**
 
-And the evidence is allowed to say:
+And perhaps the next question is:
 
-> **"No."**
+> **"How can we help each other see more of the elephant?"**
+
+That is where the Council begins.
+
+That is where the test becomes a mirror.
+
+That is where difference can become connection.
+
+---
+
+## Project Documents
+
+The repository contains the project's evolving philosophical and methodological documents, including:
+
+* **PERSPECTIVE_PRINCIPLE_V01** — the Perspective Principle, Elephant Principle and the idea of bridges between perspectives.
+* **SEED_OF_PERSPECTIVE** — the intended psychological starting point of the test: curiosity about why people see differently.
+* **PROJECT_CONTEXT_V02** — the current working context, experiments, hypotheses and unresolved questions.
+* **METAL_MONKEY_QUOTES** — quotations and original formulations that express the project's emerging philosophy.
+* **VISION** — the broader direction of the project.
+* **ETHICS** — ethical principles.
+* **METHODOLOGY** — methodological rules for experimentation and interpretation.
+
+These documents are part of an evolving project rather than a claim that the final model has already been established.
+
+---
+
+# 🐘 Keep looking. Keep listening.
+
+## The elephant is bigger than any of us.
+
+**Metal Monkey Project**
