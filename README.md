@@ -21,6 +21,9 @@ That does not automatically mean that one of them is wrong.
 
 They may simply be standing somewhere else around the same elephant.
 
+> **Want to explore the idea in more depth?**
+> Read the full **[Perspective Principle](PERSPECTIVE_PRINCIPLE_V01_2026-08-21.md)** — the working philosophical document behind the Elephant Principle, the Council of 60, and the bridges between perspectives.
+
 ---
 
 ## 🐘 The Elephant Principle
@@ -82,6 +85,8 @@ The goal is not to erase differences.
 
 The goal is to make differences visible **without turning them into contempt or conflict**.
 
+For a deeper explanation of this idea, see **[The Seed of Perspective](SEED_OF_PERSPECTIVE.md)**.
+
 ---
 
 ## The Test Is a Mirror, Not a Verdict
@@ -131,6 +136,8 @@ This remains a **working hypothesis**, not an established scientific fact.
 The Council should therefore not be understood as sixty boxes into which human beings must permanently fit.
 
 It is better understood as a map of possible positions around the elephant.
+
+For the current working context, hypotheses and open questions, see **[Project Context V02](PROJECT_CONTEXT_V02_2026-08-19.md)**.
 
 ---
 
@@ -253,6 +260,8 @@ Words borrowed from others should never be presented as our own.
 
 Attribution should be verified whenever possible.
 
+For the project's collection of quotations and original formulations, see **[Metal Monkey Quotes](METAL_MONKEY_QUOTES.md)**.
+
 ---
 
 ## What Metal Monkey Is Exploring
@@ -332,19 +341,19 @@ That is where difference can become connection.
 
 ---
 
-## Project Documents
+## Further Reading
 
-The repository contains the project's evolving philosophical and methodological documents, including:
+The repository contains several documents that explore different layers of the project in greater depth:
 
-* **PERSPECTIVE_PRINCIPLE_V01** — the Perspective Principle, Elephant Principle and the idea of bridges between perspectives.
-* **SEED_OF_PERSPECTIVE** — the intended psychological starting point of the test: curiosity about why people see differently.
-* **PROJECT_CONTEXT_V02** — the current working context, experiments, hypotheses and unresolved questions.
-* **METAL_MONKEY_QUOTES** — quotations and original formulations that express the project's emerging philosophy.
-* **VISION** — the broader direction of the project.
-* **ETHICS** — ethical principles.
-* **METHODOLOGY** — methodological rules for experimentation and interpretation.
+* **[The Perspective Principle](PERSPECTIVE_PRINCIPLE_V01_2026-08-21.md)** — the deeper philosophical foundation of the Elephant Principle, the Council and the bridges between perspectives.
+* **[The Seed of Perspective](SEED_OF_PERSPECTIVE.md)** — why the test is intended to create curiosity rather than deliver a verdict.
+* **[Project Context V02](PROJECT_CONTEXT_V02_2026-08-19.md)** — the current working context, hypotheses, experiments and open questions.
+* **[Metal Monkey Quotes](METAL_MONKEY_QUOTES.md)** — quotations and original formulations expressing the project's emerging philosophy.
+* **[Vision](VISION.md)** — the broader direction of the project.
+* **[Ethics](ETHICS.md)** — ethical principles.
+* **[Methodology](METHODOLOGY.md)** — methodological principles for experimentation and interpretation.
 
-These documents are part of an evolving project rather than a claim that the final model has already been established.
+These documents represent an evolving project. They should be read as working material, not as a claim that the final model has already been established.
 
 ---
 
