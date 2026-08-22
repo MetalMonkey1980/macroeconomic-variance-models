@@ -346,19 +346,19 @@ Metal Monkey
 
 A bridge should therefore be described by what is shared, not merely by the fact that two positions are connected.
 
-# 14. Direct and Indirect Bridges
+## 14. Direct and Indirect Bridges
 
 Not every connection needs to be direct.
 
 A possible structure is:
 
-Metal Monkey
-      |
-      v
-Position A
-      |
-      v
-Position B
+    Metal Monkey
+          |
+          v
+    Position A
+          |
+          v
+    Position B
 
 If Metal Monkey and Position B are difficult to understand directly, Position A may provide an intermediate perspective.
 
@@ -368,39 +368,43 @@ However, this is currently a hypothesis.
 
 It must not be presented as an established property of the system.
 
-# 15. The First Experimental Questions
+---
+
+## 15. The First Experimental Questions
 
 The first experiment should attempt to answer a small number of questions.
 
-Question A
+### Question A
 
-Does the Metal Monkey participant show a recognizable pattern of preferences?
+**Does the Metal Monkey participant show a recognizable pattern of preferences?**
 
-Question B
+### Question B
 
-Which observed preferences are specific to Metal Monkey, and which appear elsewhere in the Council?
+**Which observed preferences are specific to Metal Monkey, and which appear elsewhere in the Council?**
 
-Question C
+### Question C
 
-Are similarities stronger within the same trigon, animal, element or Yin/Yang layer?
+**Are similarities stronger within the same trigon, animal, element or Yin / Yang layer?**
 
-Question D
+### Question D
 
-Are there meaningful similarities between structurally distant positions?
+**Are there meaningful similarities between structurally distant positions?**
 
-Question E
+### Question E
 
-Can these similarities be interpreted as potential bridges between perspectives?
+**Can these similarities be interpreted as potential bridges between perspectives?**
 
-# 16. What Would Count as Interesting?
+---
+
+## 16. What Would Count as Interesting?
 
 A result is interesting if it was:
 
-observable,
-repeatable,
-distinguishable from baseline,
-not dependent on the wording of one question,
-and not introduced after seeing the result.
+- observable,
+- repeatable,
+- distinguishable from baseline,
+- not dependent on the wording of one question,
+- and not introduced after seeing the result.
 
 Unexpected findings are especially valuable.
 
@@ -408,98 +412,110 @@ A result that contradicts the current model is not a failure of the experiment.
 
 It may be a failure of the model.
 
-# 17. What Would Count as Failure?
+---
+
+## 17. What Would Count as Failure?
 
 The experiment should be allowed to conclude that:
 
-no stable Metal Monkey pattern was found,
-different questions produced contradictory results,
-the proposed dimensions were poorly defined,
-Council layers did not explain observed similarities,
-or the model performed no better than a suitable baseline.
+- no stable Metal Monkey pattern was found,
+- different questions produced contradictory results,
+- the proposed dimensions were poorly defined,
+- Council layers did not explain observed similarities,
+- or the model performed no better than a suitable baseline.
 
 These outcomes must remain legitimate.
 
-The experiment is successful even when the hypothesis is not.
+> **The experiment is successful even when the hypothesis is not.**
 
 The purpose is to discover what is actually there.
 
-# 18. Baseline
+---
+
+## 18. Baseline
 
 No pattern should be considered meaningful without comparison.
 
 Possible baselines may include:
 
-random Council assignment,
-random pairing of participants,
-overall population response distribution,
-comparison with alternative grouping methods.
+- random Council assignment,
+- random pairing of participants,
+- overall population response distribution,
+- comparison with alternative grouping methods.
 
 The final baseline method must be selected before the main analysis.
 
-# 19. Avoiding Confirmation Bias
+---
+
+## 19. Avoiding Confirmation Bias
 
 The experiment should follow:
 
-Question → Data → Observation → Pattern → Hypothesis
+> **Question → Data → Observation → Pattern → Hypothesis**
 
 not:
 
-Model → Desired Evidence → Confirmation
+> **Model → Desired Evidence → Confirmation**
 
 To reduce confirmation bias:
 
-Questions should be defined before analysing results.
-Scoring rules should be documented.
-Expected characteristics should be recorded separately.
-Unexpected results must be preserved.
-Failed hypotheses must not be silently removed.
-Changes to the model must be documented.
-Original data should remain available in an anonymized form where ethically possible.
+1. Questions should be defined before analysing results.
+2. Scoring rules should be documented.
+3. Expected characteristics should be recorded separately.
+4. Unexpected results must be preserved.
+5. Failed hypotheses must not be silently removed.
+6. Changes to the model must be documented.
+7. Original data should remain available in an anonymized form where ethically possible.
 
-# 20. Reproducibility
+---
+
+## 20. Reproducibility
 
 Every major experiment should eventually record:
 
-test version,
-question version,
-scoring version,
-dataset version,
-Council mapping version,
-analysis version,
-date,
-assumptions,
-exclusions,
-and final results.
+- test version,
+- question version,
+- scoring version,
+- dataset version,
+- Council mapping version,
+- analysis version,
+- date,
+- assumptions,
+- exclusions,
+- and final results.
 
 If the analysis is later performed with Python, the code should be versioned alongside the experiment.
 
 The goal is that another person can understand:
 
-What was asked → who answered → how answers were interpreted → how the result was calculated.
+> **What was asked → who answered → how answers were interpreted → how the result was calculated.**
 
-# 21. The First Data Structure
+---
+
+## 21. The First Data Structure
 
 Before writing an analyzer, we should define the data structure.
 
 A future participant record may eventually contain fields such as:
 
-participant_id
-council_position
-animal
-element
-yin_yang
-trigon
-question_id
-answer
-timestamp
-test_version
+    participant_id
+    council_position
+    animal
+    element
+    yin_yang
+    trigon
+    question_id
+    answer
+    timestamp
+    test_version
 
 Personal identifying information should not be stored unless it is genuinely necessary.
 
 The research dataset should use anonymous identifiers wherever possible.
 
-# 22. The First Experiment Is Exploratory
+---
+
+## 22. The First Experiment Is Exploratory
 
 The first experiment should not attempt to validate the entire Council of 60.
 
@@ -507,113 +523,129 @@ Its purpose is to learn how the test behaves.
 
 The first cycle should therefore be:
 
-Design
-   ↓
-Small pilot
-   ↓
-Observe
-   ↓
-Find ambiguities
-   ↓
-Revise questions
-   ↓
-Repeat
-   ↓
-Larger dataset
-   ↓
-Formal analysis
+    Design
+       ↓
+    Small pilot
+       ↓
+    Observe
+       ↓
+    Find ambiguities
+       ↓
+    Revise questions
+       ↓
+    Repeat
+       ↓
+    Larger dataset
+       ↓
+    Formal analysis
 
 A pilot result should not automatically be treated as evidence for the final model.
 
-# 23. Proposed Development Path
+---
 
-Phase 1 — Define
-define perspective dimensions,
-document current Metal Monkey hypotheses,
-define Council relationships,
-design initial questions.
-Phase 2 — Pilot
-test questions with a small number of participants,
-identify ambiguity,
-record unexpected interpretations,
-revise the questionnaire.
-Phase 3 — Observe
-collect responses,
-preserve raw data,
-avoid changing the model during collection.
-Phase 4 — Compare
+## 23. Proposed Development Path
+
+### Phase 1 — Define
+
+- define perspective dimensions,
+- document current Metal Monkey hypotheses,
+- define Council relationships,
+- design initial questions.
+
+### Phase 2 — Pilot
+
+- test questions with a small number of participants,
+- identify ambiguity,
+- record unexpected interpretations,
+- revise the questionnaire.
+
+### Phase 3 — Observe
+
+- collect responses,
+- preserve raw data,
+- avoid changing the model during collection.
+
+### Phase 4 — Compare
 
 Compare:
 
-Metal Monkey,
-same trigon,
-same animal,
-same element,
-same Yin/Yang,
-other Council positions,
-baseline groups.
-Phase 5 — Map
+- Metal Monkey,
+- same trigon,
+- same animal,
+- same element,
+- same Yin / Yang,
+- other Council positions,
+- baseline groups.
+
+### Phase 5 — Map
 
 Create a preliminary map of:
 
-similarities,
-differences,
-distances,
-and potential bridges.
-Phase 6 — Evaluate
+- similarities,
+- differences,
+- distances,
+- and potential bridges.
+
+### Phase 6 — Evaluate
 
 Ask:
 
-Did the observations support the current model?
+> Did the observations support the current model?
 
-Did they contradict it?
+> Did they contradict it?
 
-Did they reveal something the model did not predict?
+> Did they reveal something the model did not predict?
 
-Phase 7 — Revise
+### Phase 7 — Revise
 
 Only after the observations are documented should the model be changed.
 
-# 24. When Should data_analyzer.py Be Written?
+---
+
+## 24. When Should `data_analyzer.py` Be Written?
 
 The analyzer should not be the first step.
 
 It becomes useful when:
 
-the questions are defined,
-the answer structure is stable,
-the Council mapping is documented,
-the dataset structure is defined,
-the baseline is defined,
-and we know what we actually want to calculate.
+1. the questions are defined,
+2. the answer structure is stable,
+3. the Council mapping is documented,
+4. the dataset structure is defined,
+5. the baseline is defined,
+6. and we know what we actually want to calculate.
 
 At that point, the Python code becomes an implementation of a documented experiment rather than a tool searching for patterns without a defined purpose.
 
-# 25. Current Open Questions
+---
+
+## 25. Current Open Questions
 
 The following questions remain unresolved:
 
-What exactly constitutes a "perspective" in the data?
-Which dimensions should the first test measure?
-How many questions are needed per dimension?
-Should participants see only scenarios, quotations, or both?
-How should ambiguous answers be handled?
-How should multiple motivations within one answer be represented?
-How should Council positions be encoded?
-What similarity measure is appropriate?
-What baseline should be used?
-How large should the pilot be?
-How many participants are needed before comparing Council positions?
-Which observations should be considered meaningful?
-How can potential bridges be distinguished from random similarity?
+- What exactly constitutes a "perspective" in the data?
+- Which dimensions should the first test measure?
+- How many questions are needed per dimension?
+- Should participants see only scenarios, quotations, or both?
+- How should ambiguous answers be handled?
+- How should multiple motivations within one answer be represented?
+- How should Council positions be encoded?
+- What similarity measure is appropriate?
+- What baseline should be used?
+- How large should the pilot be?
+- How many participants are needed before comparing Council positions?
+- Which observations should be considered meaningful?
+- How can potential bridges be distinguished from random similarity?
 
 These questions are not defects in the project.
 
 They are part of the experiment.
 
-# 26. Current Status
+---
 
-Status: Framework under development.
+## 26. Current Status
+
+**Status:** Framework under development.
 
 No Council position should currently be considered experimentally validated.
 
@@ -621,39 +653,41 @@ No personality characteristic should be treated as established merely because it
 
 The purpose of this framework is to create a path from:
 
-philosophical idea
+> **philosophical idea**
 
 to:
 
-> observable question
+> **observable question**
 
 to:
 
-> data
+> **data**
 
 to:
 
-> analysis
+> **analysis**
 
 to:
 
-> evidence
+> **evidence**
+
+---
 
 # 🐘 The Principle
 
 The experiment follows the same principle as the project itself:
 
-You are not wrong.
-You are standing somewhere.
+> **You are not wrong.  
+> You are standing somewhere.**
 
 But the experiment adds another question:
 
-What can we actually observe from where you are standing?
+> **What can we actually observe from where you are standing?**
 
 And finally:
 
-What can someone standing somewhere else see that we cannot?
+> **What can someone standing somewhere else see that we cannot?**
 
-Keep looking. Keep listening.
+**Keep looking. Keep listening.**
 
-The elephant is bigger than any of us.
+**The elephant is bigger than any of us.**
