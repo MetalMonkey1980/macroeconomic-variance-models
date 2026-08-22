@@ -2,6 +2,10 @@
 
 > 🐘 **Keep looking. Keep listening.**
 > **The elephant is bigger than any of us.**
+>
+**Keep looking** — do not lock yourself into a single perspective.  
+**Keep listening** — allow for the possibility that someone else may see something you cannot.  
+**The elephant is bigger than any of us** — no individual can see the whole picture.
 
 ## You are not wrong.
 
