@@ -1,3 +1,16 @@
+---
+title: Zrcadlo perspektivy — Testovací modul
+version: 0.3
+date: 2026-08-22
+author: Metal Monkey Project Core Team
+co-author/editor: Metal Monkey AI (Gemini, Google)
+status: EXPERIMENTAL VERSION (v0.3)
+baseline-documents: 
+  - METAL_MONKEY_PROJECT_CONTEXT_V02 (2026-08-19)
+  - METAL_MONKEY_THE_PERSPECTIVE_PRINCIPLE_V01 (2026-08-21)
+purpose: Transformace teoretických principů "Rady 60" a "Mostů mezi perspektivami" do praktického, sekulárního nástroje sebe-reflexe.
+---
+
 # 🐒 Zrcadlo perspektivy v0.3 (Metal Monkey)
 
 *Tento test není verdiktem o tvé povaze. Je to zrcadlo nastavené tvé současné perspektivě. Pomůže ti uvidět, ze kterého místa se právě teď díváš na slona reality a jaké mosty tě spojují s ostatními v Radě 60.*
@@ -34,7 +47,7 @@
 ### 🛠️ VRSTVA 4: Kultivace prostoru (Most Komunikace / Element)
 **Když sleduješ, jak se svět kolem tebe mění a vyvíjí, jaký způsob interakce s realitou ti dává největší smysl?**
 
-*   **A) Orientace na horizonty (Dřevo):** Fascinuje mě růst, dlouhodobé vize a planning toho, čím by věci mohly jednou být.
+*   **A) Orientace na horizonty (Dřevo):** Fascinuje mě růst, dlouhodobé vize a plánování toho, čím by věci mohly jednou být.
 *   **B) Orientace na jiskru (Oheň):** Přitahuje mě dynamika, vášeň a schopnost okamžitě lidi nadchnout a dodat jim odvahu.
 *   **C) Orientace na základy (Země):** Hledám stabilitu, spolehlivost a vytváření bezpečného, pevného zázemí pro ostatní.
 *   **D) Orientace na strukturu (Kov):** Oceňuji řád, disciplínu, čistotu provedení a jasně nastavená, logická pravidla.
