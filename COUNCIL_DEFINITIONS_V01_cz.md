@@ -77,6 +77,6 @@ Tato matice jednoznačně definuje zvíře na základě průsečíku jeho vnitř
 | Vnitřní motor \ Životní role | Průsečík A (Kardinální / Tajemství) | Průsečík B (Měnící se / Reflektor) | Průsečík C (Zemský / Výzva) |
 | :--- | :--- | :--- | :--- |
 | **Trigon 1 (Inovátoři)** | 🐀 Krysa | 🐒 Opice | 🐉 Drak |
-| **Trigon 2 (Intelektuálové)** |  rooster Kohout | 🐍 Had | 🐂 Buvol |
+| **Trigon 2 (Intelektuálové)** |  🐓 Kohout | 🐍 Had | 🐂 Buvol |
 | **Trigon 3 (Nezávislí)** | 🐎 Kůň | 🐅 Tygr | 🐕 Pes |
 | **Trigon 4 (Diplomaté)** | 🐇 Zajíc | 🐖 Vepř | 🐐 Koza |
