@@ -344,6 +344,7 @@ Metal Monkey
       | complementary perspective
       |
       +------ Position C
+```
 
 A bridge should therefore be described by what is shared, not merely by the fact that two positions are connected.
 
